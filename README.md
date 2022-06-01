@@ -4,7 +4,7 @@
 
 > Animating icons using CSS and JS!
 
-| [<img src="demo/demo_animating_icons.gif" width="100%;"/><br /><sub>Animating Icons</sub>](demo/demo_animating_icons.gif)<br /> | 
+| [<img src="demo/demo_animating_icons.gif" width="100%;"/>](demo/demo_animating_icons.gif) | 
 | :---: |
 
 ## Technologies and Languages 💻
